@@ -1,2 +1,2 @@
-# Blender-3D-Art
-My Blender Projects
+# My-Blender-Projects
+Blender 3D Art
