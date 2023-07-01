@@ -1,6 +1,6 @@
 # My-Blender-Projects
 - Blender 3D Art
-- CHrometype Mask Art
+- Chrometype Mask Art
 - Virtual Production & CGI
 - VFX
 - Environment & Terrain
