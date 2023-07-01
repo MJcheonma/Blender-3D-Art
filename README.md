@@ -1,2 +1,2 @@
-# Mask-Art-Blender
-Mask art projects using blender
+# Blender-3D-Art
+Blender Projects
